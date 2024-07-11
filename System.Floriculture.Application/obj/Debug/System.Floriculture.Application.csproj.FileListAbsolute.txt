@@ -1,0 +1,9 @@
+C:\Users\alfre\source\repos\System.Floriculture\System.Floriculture.Application\bin\Debug\System.Floriculture.Application.dll
+C:\Users\alfre\source\repos\System.Floriculture\System.Floriculture.Application\bin\Debug\System.Floriculture.Application.pdb
+C:\Users\alfre\source\repos\System.Floriculture\System.Floriculture.Application\bin\Debug\System.Floriculture.Domain.dll
+C:\Users\alfre\source\repos\System.Floriculture\System.Floriculture.Application\bin\Debug\System.Floriculture.Domain.pdb
+C:\Users\alfre\source\repos\System.Floriculture\System.Floriculture.Application\obj\Debug\System.Floriculture.Application.csproj.AssemblyReference.cache
+C:\Users\alfre\source\repos\System.Floriculture\System.Floriculture.Application\obj\Debug\System.Floriculture.Application.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\repos\System.Floriculture\System.Floriculture.Application\obj\Debug\System.Floriculture.Application.csproj.CopyComplete
+C:\Users\alfre\source\repos\System.Floriculture\System.Floriculture.Application\obj\Debug\System.Floriculture.Application.dll
+C:\Users\alfre\source\repos\System.Floriculture\System.Floriculture.Application\obj\Debug\System.Floriculture.Application.pdb
